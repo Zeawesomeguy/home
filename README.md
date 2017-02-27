@@ -1,5 +1,5 @@
 # Home
-You can access this page by clicking [this](http://zeawesomeguy.github.io/home).
+You can access the page by clicking [here](http://zeawesomeguy.github.io/home).
 
 What will I do with this page?
 
